@@ -4,11 +4,11 @@ Authors:
 Jana Lasser (jana.lasser@tugraz.at) Jürgen Schneider, Thomas Lösch, Ronny Röwert (ronny.roewert@tuhh.de), Tamara Heck, Clemens Bluemel, Maike Neufend, Isabel Steinhardt, Stefan Skupien (stefan.skupien@berlin-university-alliance.de)
 
 This repository contains code to
-* Perform the cleaning of the annotated data for the mapOSR project (`clean_data.ipynb`)
-* Create visualizations for various presentations of the project (`create_visualizations.ipynb`)
-* Perform the interrater-reliability analysis (`reliability.html`)
+* Perform the cleaning of the annotated data for the mapOSR project ([clean_data.ipynb](https://github.com/JanaLasser/mapping-open-science-research/blob/main/code/clean_data.ipynb))
+* Create visualizations for various presentations of the project ([create_visualizations.ipynb](https://github.com/JanaLasser/mapping-open-science-research/blob/main/code/create_visualizations.ipynb))
+* Perform the interrater-reliability analysis ([reliability.html](https://github.com/JanaLasser/mapping-open-science-research/blob/main/code/reliability.html))
 
-The scripts read data files deposited in `data/` and create outputs which are deposited in `data/` (cleaned data files) or `plots/` (visualizations). 
+The scripts read data files deposited in [data](https://github.com/JanaLasser/mapping-open-science-research/tree/main/dataa) and create outputs which are deposited in [data](https://github.com/JanaLasser/mapping-open-science-research/tree/main/data) (cleaned data files) or [plots](https://github.com/JanaLasser/mapping-open-science-research/tree/main/plots) (visualizations). 
 
 This repository is connected to a [data repository](https://zenodo.org/communities/maposr/about/) which contains
 * Data version history

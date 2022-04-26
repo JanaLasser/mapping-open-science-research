@@ -4,7 +4,7 @@ Authors:
 Jana Lasser (jana.lasser@tugraz.at) Jürgen Schneider, Thomas Lösch, Ronny Röwert (ronny.roewert@tuhh.de), Tamara Heck, Clemens Bluemel, Maike Neufend, Isabel Steinhardt, Stefan Skupien (stefan.skupien@berlin-university-alliance.de)
 
 This repository contains code to
-* Perform the cleaning of the annotated data for the mapOSR project (`clean_data.ipynb')
+* Perform the cleaning of the annotated data for the mapOSR project (`clean_data.ipynb`)
 * Create visualizations for various presentations of the project (`create_visualizations.ipynb`)
 * Perform the interrater-reliability analysis (`reliability.html`)
 

@@ -17,4 +17,4 @@ This repository is connected to a [data repository](https://zenodo.org/communiti
 * Cleaned interrater reliability dataset
 * List of references of studies included in the dataset
 * The PRISMA flow diagram used for data collection
-* The PRISMA checklist used for reporting about the study.
+* The PRISMA checklist used for reporting about the study
